@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.flex-container{
+.flex{
 	display:flex;
 	flex-wrap:wrap;
 	justify-content:space-between;
